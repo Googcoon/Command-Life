@@ -155,7 +155,7 @@ echo.
 echo You realize hes a very nice guy and you guys become friends 
 pause
 echo.
-echo After the meeting you get a call from the CEO telling you to come to the McDonalds headquarters in Chicago, IL tommrow 
+echo After the meeting you get a call from the CEO telling you to come to the McDonalds headquarters in Chicago, IL tommorow 
 pause
 echo.
 echo You are SUPER EXCITED to get to see the headquarters plus the flight there is FREE 
