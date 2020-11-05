@@ -210,5 +210,5 @@ echo.
 echo.
 echo                                                             Day 3
 echo                                                 to be released in Version 1.1 
-echo                                                         Coming 9/20/20
+echo                                                         Coming Soon!
 pause
